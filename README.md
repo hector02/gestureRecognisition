@@ -42,8 +42,6 @@ This application provides following functionalities:
 
 
 # Demo 
-Youtube link - https://www.youtube.com/watch?v=CMs5cn65YK8
-
 ![](https://j.gifs.com/X6zwYm.gif)
 
 # Gesture Input
