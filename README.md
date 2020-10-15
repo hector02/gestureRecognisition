@@ -199,14 +199,3 @@ Layer 2 visualization for STOP gesture
 ![Layer 2 visualization for STOP gesture](https://github.com/asingh33/CNNGestureRecognizer/blob/master/img_7_layer2_Conv2D.png)
 
 
-
-# Conclusion
-So where to go from here? Well I thought of testing out the responsiveness of NN predictions and games are good benchmark. On MAC I dont have any games installed but then this Chrome Browser Dino Jump game came handy. So I bound the 'Punch' gesture with jump action of the Dino character. Basically can work with any other gesture but felt Punch gesture is easy. Stop gesture was another candidate.
-
-Well here is how it turned out :)
-
-Watch full video - https://www.youtube.com/watch?v=lnFPvtCSsLA&t=49s
-
-![](https://j.gifs.com/58pxVx.gif)
-
-
